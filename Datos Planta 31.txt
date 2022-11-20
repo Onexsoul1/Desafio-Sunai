@@ -1,3 +1,4 @@
 La suma diaria de active power en esta planta es: 2520597.0
 El active power maximo en esta planta es: 20527.0
 El active power minimo en esta planta es: 41.0
+El grafico de esta planta se encuentra en: <_io.TextIOWrapper name='c:\\Users\\carlo\\Desktop\\Desafio-Sunai\\Grafico planta 31.png' mode='r' encoding='cp1252'>
