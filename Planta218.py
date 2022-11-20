@@ -43,7 +43,7 @@ with open("Datos Planta 218.txt", "w") as text_file:
     text_file.write("La suma diaria de active power en esta planta es: %s\n" % s)
     text_file.write("El active power maximo en esta planta es: %s\n" % maxs)
     text_file.write("El active power minimo en esta planta es: %s\n" % mins)
-    text_file.write("El grafico de esta planta se encuentra en: %s\n" % graf)
+    text_file.write("El grafico de esta planta se encuentra en: %s\n" % graf.name)
     text_file.close
 
 """paso 3"""
