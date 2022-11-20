@@ -1,0 +1,3 @@
+La suma diaria de active power en esta planta es: 2520597.0
+El active power maximo en esta planta es: 20527.0
+El active power minimo en esta planta es: 41.0
